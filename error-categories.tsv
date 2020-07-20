@@ -1,4 +1,5 @@
-Type	Description	Example Vt Verb tense Medical technology during that time [is → was] not advanced enough to cure him.
+Type	Description	Example 
+Vt	Verb tense	Medical technology during that time [is → was] not advanced enough to cure him.
 Vm	Verb modal	Although the problem [would → may] not be serious, people [would → might] still be afraid.
 V0	Missing verb	However, there are also a great number of people [who → who are] against this technology.
 Vform	Verb form	A study in 2010 [shown → showed] that patients recover faster when surrounded by family members.
@@ -21,7 +22,7 @@ Ssub	Subordinate clause	This is an issue [needs → that needs] to be addressed.
 WOinc	Incorrect word order	[Someone having what kind of disease → What kind of disease someone has] is a matter of their own privacy.
 WOadv	Incorrect adjective/ adverb order	In conclusion,  [personally I → I personally] feel that it is important to tell one’s family members.
 Trans	Linking words/phrases	It is sometimes hard to find [out → out if] one has this disease.
-Mec	Spelling, punctuation, capitalization etc.This knowledge [maybe relavant → may be relevant] to them.	This knowledge [maybe relavant → may be relevant] to them.
+Mec	Spelling, punctuation, capitalization etc.	This knowledge [maybe relavant → may be relevant] to them.
 Rloc−	Redundancy	It is up to the [patient’s own choice → patient] to disclose information.
 Cit	Citation	Poor citation practice.
 Others	Other errors	An error that does not fit into any other category but can still be corrected.
