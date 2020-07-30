@@ -6,4 +6,4 @@ Table 1. [Error-categories](https://github.com/Sukii/CE/blob/master/error-catego
 Table 3. [Error-frequencies](https://github.com/Sukii/CE/blob/master/error-freq.csv)
 
 
-We also reproduce data [GTD.csv](https://github.com/Sukii/CE/blob/master/GTD.csv) from Prof. Jitendra Singh Thakur's [paper](Evaluating performance of different grammar checking tools).
+We also reproduce data [GTD.csv](https://github.com/Sukii/CE/blob/master/GTD.csv) from Prof. Jitendra Singh Thakur's paper, [Evaluating performance of different grammar checking tools](http://www.warse.org/IJATCSE/static/pdf/file/ijatcse201922020.pdf).
