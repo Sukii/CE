@@ -1,0 +1,522 @@
+Correct Sentence,Errneous Sentence,Error Type,Error Subtype,Error Description,Grammarly,Ginger,ProWrittingAid,LanguageTools,After thr Deadline
+The child who has a rash was just diagnosed with measles./ The child has a rash.,The child who has a rash.,Sentence Structure Error,Fragment error,missing verb,YES,NO,NO,NO,NO
+"Since the drugs have many side effects, the patient should be monitored/The drugs have many side effects. ",Since the drugs have many side effects.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,YES,NO
+"After the doctor performed the operation, the patient died./The doctor performed the operation; the patient died./The doctor performed the operation. The patient died.",The doctor performed the operation the patient died.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Although the doctor performed the operation, the patient died/The doctor performed the operation; the patient died./The doctor performed the operation. The patient died.","The doctor performed the operation, the patient died.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+We have hundreds of pages of reading to do; it will be impossible to finish it all before the exam. / We have hundreds of pages of reading to do. it will be impossible to finish it all before the exam. ,"We have hundreds of pages of reading to do, it will be impossible to finish it all before the exam.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+"I tried to clean the house, but I gave up and watched soap operas instead.","I tried to clean the house, I gave up and watched soap operas instead. ",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+"I repaired all the structural errors in my paper, and then I turned it in. ","I repaired all the structural errors in my paper, then I turned it in.",Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+Sentence fragments are confusing and distracting to readers.,Confusing and distracting to readers. ,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+" Because they are confusing and distracting to readers, writers should generally avoid sentence fragments.", Because they are confusing and distracting to readers.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+" They gossiped about many things at lunch; they always have the most to say about their coworkers./ They gossiped about many things at lunch. They always have the most to say about their coworkers./Although they gossiped about many things at lunch, they always have the most to say about their coworkers.",They gossiped about many things at lunch they always have the most to say about their coworkers.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Although the result of the study was inconclusive, the committee decided to implement the policy.",Although the result of the study was inconclusive.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"If the result of the study confirmed the writer’s hypothesis, it would be a major breakthrough in the world of biochemistry.", If the result of the study confirmed the writer’s hypothesis.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+The study conducted by the university is  helpfull.,The study conducted by the university.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+The result of the study is not so good.,The result of the study.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+The Exam Conducted by the university in 2008.,Conducted by the university in 2008.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+"The survey shows that more than 80% of the population agrees that racism is rife. However, only 12% of the population admits that they are racist.",The survey shows that more than 80% of the population agrees that racism is rife however only 12% of the population admits that they are racist.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+" More than 80% of the population agrees that racism is rife; 12% of the population admits that they are racist./ More than 80% of the population agrees that racism is rife, and 12% of the population admits that they are racist.","More than 80% of the population agrees that racism is rife, 12% of the population admits that they are racist.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+The election failed because the ruling party refused to hand over power.,Because the ruling party refused to hand over power.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+The project ran over the deadline. Data processing was extensive./The project ran over the deadline; data processing was extensive./The project ran over the deadline because data processing was extensive.,"The project ran over the deadline, data processing was extensive.",Sentence Structure Error,Run-on error,missing conjunction,NO,NO,YES,NO,NO
+"Jimmy likes to take cream and sugar with his coffee when he drinks it warm; he also likes it black./Jimmy likes to take cream and sugar with his coffee when he drinks it warm. He also likes it black./Jimmy likes to take cream and sugar with his coffee, but when he drinks it warm, he also likes it black.","Jimmy likes to take cream and sugar with his coffee when he drinks it warm, he also likes it black.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+Ducks fly.,Ducks.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+"Haggard and elderly ducks and geese fly slower, lower, and with more caution.","Fly slower, lower, and with more caution.",Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+The dog catches the ball.,Catches the ball.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+The ball is caught.,The ball.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+The coast was clear.,When the coast was clear.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"A tall, thin man with owlish spectacles and a bald head is bad.","A tall, thin man with owlish spectacles and a bald head.",Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+Boat Floated toward the beaches. ,Floated toward the beaches. ,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+"Detailed decontamination is a lengthy process, usually carried on at a home base or rear area."," Detailed decontamination is a lengthy process, it is usually carried on at a home base or rear area.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+"If you come home on time, I will buy you a present.",If you come home on time.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"When it rains, the gutters become clogged.",When it rains.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"Because he is mean, I will not take a class from him.",Because he is mean.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+John is a musician. He plays the guitar for a living.,"John is a musician, he plays the guitar for a living.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+The girl walked home. She decided not to ride the bus.,"The girl walked home, she decided not to ride the bus.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+He could only guess at the number of guests who attended the party. The entire yard was filled with people.,"He could only guess at the number of guests who attended the party, the entire yard was filled with people.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+"There is a problem with the television; however, no one is available to fix it.",There is a problem with the television however no one is available to fix it.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+Nobody knows what really happened; the policeman said there was a fight.,Nobody knows what really happened the policeman said there was a fight.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+That is the problem when people have conflict. They attack each other personally.,That is the problem when people have conflict they attack each other personally.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+I had never eaten so much.,Had never eaten so much.,Sentence Structure Error,Fragment error,missing subject,YES,NO,NO,NO,NO
+I was nervous.,Being nervous.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+The chips and beer tasted great.,The chips and beer.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.
+",I enjoyed the anthology very much the stories still remain in my mind.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.
+","I enjoyed the anthology very much, the stories still remain in my mind.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+"After the concert, I went straight home. ",After the concert.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+My brother bought a cake and ate the whole thing. ,And ate the whole thing. ,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"Everyone went to the concert, including me. ",Including me. ,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+I love hanging out with friends.,Hanging out with friends. ,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+She's at the mall looking for a new dress. ,Looking for a new dress.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+He came home covered in dirt. ,Covered in dirt. ,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+I'm saving up to go to Spain. ,To go to Spain.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+"The weather was so beautiful. We stayed outside all day./The weather was so beautiful, so we stayed outside all day./The weather was so beautiful that we stayed outside all day./ The weather was so beautiful. Therefore, we stayed outside all day./The weather was so beautiful; therefore, we stayed outside all day. ",The weather was so beautiful we stayed outside all day.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+Joe went to the store .,Went to the store.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+Sarah and Jessie are going swimming .,Sarah and Jessie.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+The frog jumped and landed in the pond .,Jumped and landed in the pond.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+"The pizza smells, delicious .","Smells, delicious.",Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+There is a fly in the car with us .,In the car with us.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+The music is too loud for my ears .,Is too loud for my ears.,Sentence Structure Error,Fragment error,missing subject,YES,NO,NO,NO,NO
+Alice ran towards the stadium .,Ran towards the stadium.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+Brent and Ben are going hunting tomorrow morning .,Brent and Ben.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+The dysfunctional went straight down in the ocean .,Went straight down in the ocean.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+The printer is out of ink .,Is out of ink.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+"Despite reading all night , the girl failed the test .",Despite reading all night.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"If he had not run all the way home , he would have been caught in the rain .",If he had not run all the way home.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+My mother likes dogs that don't bark .,That don't bark.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"As long as you go with me , I will go .",As long as you go with me.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"As the clock struck noon , my father breathed his last .",As the clock struck noon.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"Although I hate to miss your class , I will not be there Friday .",Although I hate to miss your class.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"When I was walking home from school , I slipped and fell on the ice .",When I was walking home from school.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"Because Kevin had limited experience , the company was hesitant to hire him .",Because Kevin had limited experience.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+The company was hesitant to hire Kevin because he had limited experience .,Because he had limited experience.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"If you work hard , you will shine in life .",If you work hard.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"While he waited at the train station , Joe realized that the train was late .",While he waited at the train station.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+"Though Ajay is poor , he is honest .",Though Ajay is poor.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"However , I answer this question anyway , regardless of my feelings .","However, I answer this question anyway.",Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"Although my boyfriend invited me , I chose not to go to the party .",Although my boyfriend invited me.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
+"Even when students study , they still sometimes fail .",Even when students study.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,YES,NO
+They say it's your birthday ; it's my birthday too! ,They say it's your birthday it's my birthday too! ,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+Management is doing things right ; leadership is doing the right things .,Management is doing things right leadership is doing the right things.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+She wanted to play tennis ; he wanted to play basketball .,She wanted to play tennis he wanted to play basketball.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+She wanted to play tennis ; he wanted to play basketball .,She wanted to play tennis  he wanted to play basketball.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+I made the cake ; my sister decorated it .,I made the cake  my sister decorated it.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+We don’t eat meat ; we’re vegetarians .,We don’t eat meat  we’re vegetarians.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Jen hadn’t enjoyed the play ; as a result , she didn’t recommend it .","Jen hadn’t enjoyed the play  as a result, she didn’t recommend it.",Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"I absolutely love singing ; on the other hand , my sister hates it .","I absolutely love singing  on the other hand, my sister hates it.",Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Jack Sprat did not eat fat , and his wife would not eat lean .",Jack Sprat did not eat fat his wife would not eat lean.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"The storm destroyed our squash , so we ate eggplant instead .",The storm destroyed our squash we ate eggplant instead.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Both the shed fell down , and the garage blew up .",Both the shed fell down the garage blew up.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"Either you need to study harder ,or you need to drop the class .",Either you need to study harder you need to drop the class.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"I like coffee, and Mary likes tea .",I like coffee Mary likes tea.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+The Angel Falls waterfall in Venezuela plunges 907 metres ; it looks spectacular .,"The Angel Falls waterfall in Venezuela plunges 907 metres , it looks spectacular.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+The entire town was flooded ; people used boats .,"The entire town was flooded, people used boats.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+We always shop at the supermarket ; it's got everything in one place .,"We always shop at the supermarket, it's got everything in one place.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+Call us next week ; it should be in then .,"Call us next week, it should be in then.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+You can pay online ; we accept all major credit cards .,"You can pay online, we accept all major credit cards.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+I only write non-fiction ; I've never tried fiction .,"I only write non-fiction, I've never tried fiction.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+"Frantic is my favourite film ; however , I've only seen it once .","Frantic is my favourite film, I've only seen it once.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,NO,NO,NO
+Three hundred persons can sit in it .,Three hundred persons.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
+This hall is large enough for three hundred person to sit in .,Is large enough for three hundred person to sit in.,Sentence Structure Error,Fragment error,missing subject,YES,NO,NO,NO,NO
+She has much time .,Has much time.,Sentence Structure Error,Fragment error,missing subject,YES,NO,NO,NO,NO
+It was black in colour .,Black in colour.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+I met friend .,Met friend.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
+I can’t wait to travel to Paris next week!,I can’t wait to travel to Paris next week.,Punctuation Error,,missing the exclamation mark,NO,NO,NO,NO,NO
+I can’t believe I got into law school!,I can’t believe! I got into law school.,Punctuation Error,,misplace exclamation mark,NO,NO,NO,NO,NO
+Yuck! I hate coconuts!,Yuck! I hate coconuts.,Punctuation Error,,missing the exclamation mark,NO,NO,NO,NO,NO
+That was an impressive victory! Congratulations!,That was an impressive victory Congratulations!,Punctuation Error,,missing the exclamation mark,NO,NO,NO,NO,NO
+Please don’t stay out too late tonight!,Please don’t stay! out too late tonight.,Punctuation Error,,misplace exclamation mark,NO,NO,NO,NO,NO
+"Get out of here, now!","Get out! of here, now.",Punctuation Error,,misplace exclamation mark,NO,NO,NO,NO,NO
+Go to your room this instant!,Go to your room! this instant!,Punctuation Error,,unnecessary use exclamation mark,NO,NO,NO,NO,NO
+How are you feeling?,How are you feeling.,Punctuation Error,,missing the question mark,YES,NO,YES,NO,NO
+"You can’t be serious, can you?","You can’t be serious, can you.",Punctuation Error,,missing the question mark,YES,NO,NO,NO,NO
+It really ended just like that?/It ended just like that. ,It really ended just like that. ,Punctuation Error,,missing the question mark,NO,NO,NO,NO,NO
+"When I was traveling in Croatia, I met a lot of interesting people./When I was traveling to Croatia, I met a lot of interesting people.",We can go to the movies tonight or we can just stay home.,Punctuation Error,,misssing the comma,NO,NO,NO,YES,NO
+"We have always wanted to buy a boat, sell everything, and set sail.","We have always wanted to buy a boat, sell everything and set sail.",Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+"Either Tom, Bill, Jen, or Michelle will lead the seminar.","Either Tom, Bill, Jen, or Michelle will, lead the seminar.",Punctuation Error,,unnecessary use comma,YES,NO,YES,NO,NO
+"In a way, they are both right.",In a way they are both right.,Punctuation Error,,missing the comma,YES,NO,YES,NO,NO
+"When I was traveling in Croatia, I met a lot of interesting people./When I was traveling to Croatia, I met a lot of interesting people.","When I was traveling in Croatia, I met a lot, of interesting people.",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+"The office, an old colonial building, badly needed repairs.","The office, an old colonial building badly needed repairs. ",Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+"The mirror, which was a gift from my grandmother, was broken during the storm.","The mirror which was a gift from my grandmother, was broken during the storm.",Punctuation Error,,missing the comma,NO,NO,YES,NO,NO
+"Find me something to dig with, such as a shovel or spade, so I can plant these flowers.","Find me something to dig with, such as a shovel, or spade, so I can plant these flowers.",Punctuation Error,,unnecessary use comma,NO,NO,NO,NO,NO
+"I’m from Portland, Oregon, but I’ve lived in Washington, D.C., for more than 10 years. ","I’m from Portland, Oregon, but I’ve lived in Washington, D.C. for more than 10 years. ",Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+"I first arrived in Europe on September 6, 2010.",I first arrived in Europe on September 6 2010.,Punctuation Error,,missing the comma,YES,NO,YES,YES,NO
+"There are over 15,000 protestors gathered outside Capitol Hill.","There are over 15,000 protestors gathered, outside Capitol Hill.",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+"All I’m taking on the road trip is my truck, along with its spare tire; a radio, which only kind of works; and my dog.","All I’m taking on the road trip is my truck, along with its spare tire a radio, which only kind of works; and my dog.",Punctuation Error,,missing the semi colon,NO,NO,NO,NO,NO
+"Jen hadn’t enjoyed the play; as a result, she didn’t recommend it to her friend.",Jen hadn’t enjoyed the play; as a result; she didn’t recommend it to her friend.,Punctuation Error,,used semicolon instead of comma,NO,NO,NO,NO,NO
+"I hope the traffic isn't too bad; I don't want to be late for the movie.
+","I hope the traffic isn't too bad I don't want to be late for the movie.
+",Punctuation Error,,missing the semi colon,NO,NO,NO,NO,NO
+"My father had a phrase he was fond of repeating: ‘Hope for the best, but prepare for the worst.’","My father had a phrase he was fond of repeating ‘Hope for the best, but prepare for the worst.’",Punctuation Error,,missing the colon,NO,NO,NO,NO,NO
+Do you have any sugar-free cookies?,Do you have any sugar free cookies?,Punctuation Error,,missing the hyphen,NO,NO,NO,NO,YES
+It is the only 10-storey building in the town./It is the only 10-story building in the town.,It is the only 10-storey building in the town?,Punctuation Error,,unnecessary question mark,NO,NO,NO,NO,NO
+My old-fashioned aunt would never approve.,My old fashioned aunt would never approve.,Punctuation Error,,missing the hyphen,NO,NO,YES,YES,YES
+This behavior is decidedly un-American.,This behavior is-decidedly un-American.,Punctuation Error,,unnecessary used hyphen,NO,NO,NO,NO,NO
+"I don’t mean to second-guess you, but you should check the work again.","I don’t mean to second guess you, but you should check the work again.",Punctuation Error,,missing the hyphen,NO,NO,NO,NO,NO
+We need you to submit your expense report for January–March./We need you to give your expense report for January–March.,We need you to submit your expense report for January March.,Punctuation Error,,missing dash,NO,NO,NO,NO,NO
+I’ll be in the office 8:00 AM–4:00 PM this Friday./I’ll be in the office at 8:00 AM–4:00 PM this Friday.,I’ll be in the office 8:00 AM 4:00 PM this Friday.,Punctuation Error,,missing dash,NO,NO,NO,NO,NO
+The board voted 5–4 to accept the proposal.,The board voted 5 to 4 to accept the proposal.,Punctuation Error,,used 'to' instead of dash,NO,NO,NO,NO,NO
+We will begin boarding the Denver–Chicago flight shortly.,"We will begin boarding, the Denver–Chicago flight shortly.",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+The Republican–Democrat divide on the issue has only widened in recent months./The Republican–Democrat division on the issue has only widened in recent months.,The Republican Democrat divide on the issue has only widened in recent months.,Punctuation Error,,missing the dash,YES,NO,NO,NO,NO
+Each candidate must be sure to provide his/her references before the interview.,"Each candidate must be sure to provide his,her references before the interview. ",Punctuation Error,,used comma instead of slash,NO,NO,NO,NO,NO
+"Whoever is leading the group study, he/she needs to keep detailed notes about how the time is spent.","Whoever is leading the group study, he-she needs to keep detailed notes about how the time is spent.",Punctuation Error,,used dash instead of slash,NO,NO,NO,NO,NO
+"We’ll need a signed statement from you and/or your employer [one, the other, or both].","We’ll need a signed statement, from you and/or your employer [one, the other, or both].",Punctuation Error,,unnecessary use of comma,NO,NO,YES,NO,NO
+"Rent is $650/month [$650 per month], due on the first day of each month./Rent is $650/month [$650 per month], do on the first day of each month.",Rent is $650/month [$650 per month] due on the first day of each month.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+This singer/songwriter’s [singer who is also a songwriter] work never fails to impress.,This singer songwriter’s [singer who is also a songwriter] work never fails to impress.,Punctuation Error,,missing the slash,NO,NO,NO,NO,NO
+Use hyphens b/w [between] compounds.,"Use hyphens, b/w [between] compounds.",Punctuation Error,,unnecessary comma,NO,NO,NO,NO,NO
+Will be late because of traffic./I will be late because of traffic.,"Will be late, because of traffic.",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
+This plan doesn’t [does not] make any sense.,This plan doesnt [does not] make any sense.,Punctuation Error,,missing apostrophe,YES,YES,YES,YES,YES
+It’s [it is] a very unfortunate circumstance.,It’s [it is] a very unfortunate! circumstance.,Punctuation Error,,unnecessary exclamation mark,NO,NO,NO,NO,NO
+I hope you’re [you are] happy in your new job.,I hope youre [you are] happy in your new job.,Punctuation Error,,missing apostrophe,YES,YES,YES,YES,YES
+Please don’t [do not] do anything you aren’t [are not] sure about.,Please dont [do not] do anything you aren’t [are not] sure about.,Punctuation Error,,missing apostrophe,YES,YES,YES,YES,NO
+We were looking everywhere for Jonathan’s bike!,We were looking everywhere for Jonathan’s bike.,Punctuation Error,,missing exclamation mark,NO,NO,NO,NO,NO
+The kids’ play room is a mess.,The kids’ play room is a mess?,Punctuation Error,,unnecessary question mark,NO,NO,NO,NO,NO
+We could stay in my family’s cabin for the weekend./  We could stay at my family's cabin for the weekend.,We could stay in my familys' cabin for the weekend.,Punctuation Error,,misplace apostrophe,YES,YES,NO,NO,YES
+ Police are gathering witnesses’ testimonies regarding the incident.,Police are gathering witnesses testimonies regarding the incident.,Punctuation Error,,missing apostrophe,YES,NO,YES,NO,NO
+We’ll have to rely on people’s donations to stay open.,We’ll have to rely on peoples' donations to stay open.,Punctuation Error,,misplace apostrophe,NO,NO,NO,NO,YES
+"Two or three of the spectators were sniffling, and one was weeping loudly. ",Two or three of the spectators were sniffling and one was weeping loudly.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+" Dirk was going home to dinner, and I proposed to find a doctor. ", Dirk was going home to dinner and I proposed to find a doctor. ,Punctuation Error,,missing the comma,NO,NO,YES,NO,NO
+"It was an unscheduled stop, and the platform of the small station was crowded with people.","It was an unscheduled stop, and the platform of the small station, was crowded with people.",Punctuation Error,,unnecessary use comma,YES,NO,YES,NO,NO
+"It is true that the exact historical connections are often hard to establish, but a social context must always be presumed. /Indeed, the exact historical connections are often hard to establish but a social context must always be presumed. /It is true that the exact historical connections are often hard to set up but a social context must always be presumed.",It is true that the exact historical connections are often hard to establish but a social context must always be presumed. ,Punctuation Error,,missing the comma,NO,NO,YES,NO,NO
+"Nevertheless, the conditions behind the kitchen door were suitable for a pigsty.",Nevertheless the conditions behind the kitchen door were suitable for a pigsty.,Punctuation Error,,missing the comma,YES,NO,YES,YES,NO
+"Aside from that remark, all our conversation was aboutpersonalities. ",Aside from that remark all our conversation was about personalities. ,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+"Taking out the crumpled paper, I looked at the telephone number.","Taking out the crumpled paper I looked at the, telephone number.",Punctuation Error,,misplace comma,NO,NO,YES,NO,NO
+"He is, as we say, a creature of circumstance.","He is, as we say a creature of circumstance.",Punctuation Error,,missing the comma,NO,NO,YES,NO,NO
+"It was blindingly, glaringly hot.",It was blindingly glaringly hot.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+"Everything else on the farm was destroyed.
+","Everything else on the farm, was destroyed.",Punctuation Error,,unnecessary comma,YES,NO,YES,NO,NO
+The bowers and arbors in these villa gardens are among the loveliest we’ve seen.,"The bowers and arbors in these villa gardens, are among the loveliest we’ve seen.",Punctuation Error,,unnecessary comma,YES,NO,NO,NO,NO
+"The Vespa was somehow far more stable than I had expected and wonderfully easy to ride. /The Vespa, was somehow far more stable than I had expected and wonderfully easy to ride. ","The Vespa, was somehow, far more stable than I had 
+expected and wonderfully easy to ride. ",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
+"Our panelists hail from San Francisco, Los Angeles, and Seattle./Our panelists hail from San Francisco; Los Angeles and Seattle.","Our panelists hail from San Francisco; Los Angeles, and Seattle.",Punctuation Error,,used semicolon instead of comma  ,NO,NO,NO,NO,NO
+These boys possess what Jane calls “a one-track mind.”/These boys have what Jane calls: “a one-track mind.”,These boys possess what Jane calls: “a one-track mind.”,Punctuation Error,,unnecessary use colon,NO,NO,NO,NO,NO
+"Macduff’s grief (as Malcolm has urged) is converted to
+expedient anger."," Macduff’s grief, (as Malcolm has urged) is converted to expedient anger.",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
+ Betting circulars cannot be sent to those under twenty-one years of age.,Betting circulars cannot be sent to those under twenty one years of age.,Punctuation Error,,missing the hyphen,YES,NO,YES,YES,YES
+Where is the gas station?,Where is the gas station.,Punctuation Error,,missing the question mark,YES,NO,YES,NO,NO
+Who is your teacher?/Who? Is your teacher.,Who? is your teacher.,Punctuation Error,,misplace use question mark,NO,NO,NO,NO,NO
+Why did you stop here?,Why did you stop here.,Punctuation Error,,missing the question mark,YES,NO,YES,NO,NO
+Did they go to the party?,"Did, they go to the party?",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+Does he likes apples?/Does! He likes apples?,Does! he likes apples?,Punctuation Error,,unnecessary exclamation mark,YES,NO,NO,NO,NO
+Are you there?,Are you there.,Punctuation Error,,missing the question mark,NO,NO,YES,NO,NO
+Do you know her name?,"Do you, know her name?",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+Is she the teacher?/Is? She the teacher?,Is? she the teacher?,Punctuation Error,,unnecessary use question mark,NO,NO,NO,NO,NO
+When will you arrive?,When will you arrive.,Punctuation Error,,missing the question mark,YES,NO,YES,NO,NO
+How did you do that?,"How, did you do that?",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
+"The dog is brown, right?",The dog is brown right?,Punctuation Error,,missing the comma,YES,NO,YES,NO,NO
+"Lisa is not here, is she?","Lisa is not here, is she",Punctuation Error,,missing question mark,NO,NO,YES,NO,NO
+I asked her to pay the bill./Did I ask her to pay the bill?,I asked her to pay the bill?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+"The teacher asked for their homework.
+
+","The teacher asked for their homework?
+
+",Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+My sister's name is Lisa.,My sisters name is Lisa.,Punctuation Error,,missing the apostrophe,YES,YES,YES,NO,NO
+The baby's name is Grace.,The babys name is Grace.,Punctuation Error,,missing the apostrophe,YES,YES,YES,NO,YES
+School starts on Wednesday./Does school start on Wednesday? ,School starts on Wednesday?,Punctuation Error,,used the question mark instead of full stop,NO,NO,NO,NO,NO
+"I like to eat pizza.
+","I like to eat pizza!
+",Punctuation Error,,used the exclamation mark,NO,NO,NO,NO,NO
+The baby is crying.,The baby is crying,Punctuation Error,,missing the full stop,NO,NO,NO,NO,NO
+The dog is brown.,The dog is brown?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+"She asked me why I didn't go to school yesterday.
+",She asked me why I didn't go to school yesterday?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+"She has a lovely, black horse.",She has a lovely black horse.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
+I like to read in a brightly lit room.,"I like to read in a brightly, lit room.",Punctuation Error,,used the comma,NO,NO,YES,NO,NO
+"We walked the dog for a friendly, elderly lady./We walked, the dog for a friendly elderly woman.
+","We walked, the dog for a friendly elderly lady.
+",Punctuation Error,,misplaced comma,NO,NO,NO,NO,NO
+He was born in March 1981.,"He was born in March, 1981.",Punctuation Error,,unnecessary used comma ,YES,NO,YES,YES,NO
+"I am traveling to Austin, Texas, to visit my sister.","I am traveling to Austin Texas, to visit my sister.",Punctuation Error,,missing the comma,NO,YES,YES,NO,NO
+"She was born in San Diego, California, in 1980.
+","She was born in San Diego California, in 1980.
+",Punctuation Error,,missing the comma,NO,YES,YES,NO,NO
+"Yes, teacher, I will finish my work.","Yes, teacher, I will finish my work?",Punctuation Error,,used the question mark,NO,NO,NO,NO,NO
+"Do you like horses, Joe?","Do you like horses, Joe.",Punctuation Error,,missing the question mark,NO,NO,NO,NO,NO
+"Now, it is time to start the movie.","Now, it is time to start the movie!",Punctuation Error,, exclamation mark instead of full stop,NO,NO,NO,NO,NO
+"Finally, I am finished with my homework!",Finally I am finished with my homework!,Punctuation Error,,missing the comma,YES,NO,YES,YES,NO
+That dog is going to bite me!,That dog is going to bite me.,Punctuation Error,,missing the exclamation mark,NO,NO,NO,NO,NO
+"The car is ours.
+","The car is our's.
+",Punctuation Error,,unnecessary used the apostrophe,YES,NO,YES,YES,NO
+He often quarrelled with his friends.,He often quarelled with his friends.,Spelling Error,,quarelled used instead of quarrelled,YES,NO,YES,YES,YES
+We haven't ever been there.,We haven't ever beeen there.,Spelling Error,,beeen used instead of been,YES,YES,YES,YES,YES
+It was impossible to know his father's name.,It was impossibble to know his father's name.,Spelling Error,,impossibble used instead of impossible,YES,YES,YES,YES,YES
+The two of us work late hours. ,The two of us work lete hours. ,Spelling Error,,lete used instead of late,YES,YES,YES,YES,NO
+It was drizzling.,It was drizling.,Spelling Error,,drizling used instead of drizzling,YES,YES,YES,YES,YES
+It was difficult to work.,It was defficult to work.,Spelling Error,,defficult used instead of difficult,YES,YES,YES,YES,YES
+His mother never gave him corporal punishment.,His mother never gave him carporal punishment.,Spelling Error,,carporal used instead of  corporal,YES,YES,YES,YES,YES
+He took his food hurriedly.,He took his food huriedly.,Spelling Error,,huriedly used instead of  hurriedly,YES,YES,YES,YES,YES
+He put on his shirt immediately.,He put on his shirt imediately. ,Spelling Error,,imediately used instead of immediately,YES,YES,YES,YES,YES
+You've had enough exercise for today.,You've had enough exircise for today.,Spelling Error,,exircise used instead of exercise,YES,YES,YES,YES,YES
+I accept your decision.,I acept your decision.,Spelling Error,,acept used instead of accept,YES,YES,YES,YES,YES
+I like everything except that.,I like everything execpt that.,Spelling Error,,execpt used instead of except,YES,YES,YES,YES,YES
+His mischief was decidedly above the average.,His misschief was decidedly above the average.,Spelling Error,,misschief used instead of mischief ,YES,YES,YES,YES,YES
+Our trip was definitely a success.,Our trip was dafinitely a success.,Spelling Error,,dafinitely used instead of definitely,YES,YES,YES,YES,YES
+I commenced my work from 1st July./I commence my work from 1st July.,I commanced my work from 1st July.,Spelling Error,,commanced used instead of commenced/commence ,YES,YES,YES,YES,YES
+I lost my class schedule.,I lost my class schedual.,Spelling Error,,schedual used instead of schedule,YES,YES,YES,YES,YES
+He was excited to see her dressed up for the occasion.,He was excited to see her dressed up for the occassion.,Spelling Error,,occassion used of occasion ,YES,YES,YES,YES,YES
+It is necessary to protect trees.,It is neccessary to protect.,Spelling Error,,neccessary used of necessary,YES,YES,YES,YES,YES
+"If she truly loved him, she would let him go.","If she truely loved him, she would let him go.",Spelling Error,,truely used instead of truly ,YES,YES,YES,YES,YES
+The court granted a judgment in favor of the plaintiffs.,The court granted a judgement in favor of the plaintiffs.,Spelling Error,,judgement used instead of judgment,YES,NO,NO,NO,NO
+ I wouldn't recommend that movie to anyone., I wouldn't reccommend that movie to anyone.,Spelling Error,,reccommend used instead of recommend ,YES,YES,YES,YES,YES
+You are two separate people. ,You are two seperate people. ,Spelling Error,,seperate used instead of separate,YES,YES,YES,YES,YES
+Come to me tomorrow morning.,Come to me tommorrow morning.,Spelling Error,,tommorrow  used instead of tomorrow,YES,YES,YES,YES,YES
+ Her pronunciation of his name was pleasantly accented., Her pronounciation of his name was pleasantly accented.,Spelling Error,,pronounciation used of instead of  pronunciation ,YES,YES,YES,YES,YES
+You shall receive proper pay for your work.,You shall recieve proper pay for your work.,Spelling Error,,recieve used instead of receive ,YES,YES,YES,YES,YES
+"It did not turn his mill, and it was no privilege to him to behold it.","It did not turn his mill, and it was no priviledge to him to behold it.",Spelling Error,,priviledge used instead of privilege,YES,YES,YES,YES,YES
+This building needs regular maintenance.,This building needs regular maintainence.,Spelling Error,,maintainence used of instead of maintenance,YES,YES,YES,YES,YES
+The ceilings were too low to accommodate his terrific height.,The ceilings were too low to accommoddate his terrific height.,Spelling Error,,accommoddate used instead of accommodate,YES,YES,YES,YES,YES
+ His eye fell on a misspelled word., His eye fell on a mispelled word.,Spelling Error,,mispelled used instead of misspelled,YES,YES,YES,YES,YES
+Your army has devastated the high palaces.,Your army has devestated the high palaces.,Spelling Error,,devestated used instead of devastated,YES,YES,YES,YES,YES
+His death affected me.,His death affceted me.,Spelling Error,,affceted used instead of affected,YES,YES,YES,YES,YES
+I had to go to jail several times.,I had to go to jail savaral times.,Spelling Error,,savaral used instead of several,YES,YES,YES,YES,YES
+You must have committed a sin.,You must have commited a sin.,Spelling Error,,commited  used instead of committed ,YES,YES,YES,YES,YES
+Our government will have educated every man.,Our governmment will have educated every man.,Spelling Error,,governmment used instead of government,YES,YES,YES,YES,YES
+He just wanted to drink a few beers in peace.,He just wanted to drink a few beers in peaec.,Spelling Error,,peaec used instead of peace,YES,YES,YES,YES,YES
+The new scheme works splendidly.,The new schame works splendidly.,Spelling Error,,schame used instead of scheme,YES,YES,YES,YES,YES
+I like mystery without dead bodies.,I like mistery without dead bodies.,Spelling Error,,mistery used instead of mystery,YES,YES,YES,YES,YES
+ Do you have an airplane ticket back home? , Do you have an airplain ticket back home? ,Spelling Error,,airplain used instead of airplane,YES,YES,YES,NO,YES
+He even had a birth certificate for me. ,He even had a birth cartificate for me. ,Spelling Error,, cartificate used instead of  certificate,YES,YES,YES,YES,YES
+Maybe the effects of the liquor would wear off by morning.,Maybe the effects of the liqour would wear off by morning.,Spelling Error,,liqour used instead of liquor,YES,YES,YES,YES,YES
+The day is declining.,The day is declinning.,Spelling Error,,declinning used instead of declining,YES,YES,YES,YES,YES
+"After a short time, darkness is going to prevail.","After a short time, darknness is going to prevail.",Spelling Error,,darknness used instead of darknesss ,YES,YES,YES,YES,YES
+I don't give a damn if he escapes. ,I don't give a damn if he escepes. ,Spelling Error,,escepes used instead of escapes,YES,YES,YES,YES,YES
+All the students are sitting in the class.,All the students are siting in the class.,Spelling Error,,siting used instead of sitting,YES,YES,NO,NO,NO
+He must be suffering from fever.,He must be sufering from fever.,Spelling Error,,sufering used instead of suffering,YES,YES,YES,YES,YES
+The peacock must be dancing somewhere.,The peacoke must be dancing somewhere.,Spelling Error,,peacoke used instead of peacock,YES,NO,YES,NO,YES
+Faith in peace is now gaining ground.,Faith in peace is now gainning ground.,Spelling Error,, gainning used instead of  gaining,YES,YES,YES,YES,YES
+They were not besieging the booking office.,They were not bisieging the booking office.,Spelling Error,,bisieging used instead of besieging,YES,YES,YES,YES,YES
+The Death rate was on the increase.,The Death rate was on the incriase.,Spelling Error,, incriase  used instead of increase,YES,YES,YES,YES,YES
+I shall be writing books.,I shall be writting books.,Spelling Error,,writting used instead of writing,YES,YES,YES,YES,YES
+The teacher bade his pupils to serve guests.,The teacher bade his pupels to serve guests.,Spelling Error,,pupels used instead of pupils,YES,NO,YES,YES,YES
+I saw a fallen tree.,I saw a falen tree.,Spelling Error,,falen used instead of fallen,YES,YES,YES,YES,YES
+His fault was that he spoke quite contrary.,His fault was that he spoke quite contrarry.,Spelling Error,,contrarry used instead of contrary,YES,YES,YES,YES,YES
+I can't believe I've finally found you.,I can't beleive I've finally found you.,Spelling Error,,believe used instead of believe,YES,YES,YES,YES,YES
+The officer abused the servant.,The officer abussed the servant.,Spelling Error,, abussed used instead of  abused,YES,YES,YES,YES,YES
+"The drunkenness produced by kava is of melancholy, silent and drowsy character.","The drunkeness produced by kava is of melancholy, silent and drowsy character.",Spelling Error,,drunkeness used instead of drunkenness,YES,NO,YES,YES,YES
+His phone rang as he reached for a dumbbell.,His phone rang as he reached for a dumbell.,Spelling Error,,dumbell used instead of dumbbell,NO,YES,YES,YES,YES
+There's nothing to be embarrassed about. ,There's nothing to be embarassed about. ,Spelling Error,, embarassed used instead of  embarrassed,YES,YES,YES,YES,YES
+The photographer came early to set up his equipment.,The photographer came early to set up his equiptment.,Spelling Error,,equiptment used instead of equipment,YES,YES,YES,YES,YES
+ We felt exhilarated by our walk along the beach. , We felt exilarated by our walk along the beach. ,Spelling Error,,exilarated used instead of exhilarated,YES,YES,YES,YES,YES
+The wind velocity did not exceed 20 km.,The wind velocity did not excede 20 km.,Spelling Error,,excede used instead of exceed,YES,YES,YES,YES,YES
+He does not believe in the existence of ghosts.,He does not believe in the existance of ghosts.,Spelling Error,,existance used instead of existence,YES,YES,YES,YES,YES
+He has a lot of experience in these matters.,He has a lot of experiance in these matters.,Spelling Error,,experiance used instead of experience,YES,YES,YES,YES,YES
+Fiery pain tore through her as he stabbed her in the neck. ,Firy pain tore through her as he stabbed her in the neck. ,Spelling Error,,firy used instead of fiery,YES,YES,NO,YES,NO
+Large movements in any large foreign market are newsworthy.,Large movements in any large foriegn market are newsworthy.,Spelling Error,, foriegn used instead of foreign,YES,YES,YES,YES,YES
+It was a matter of great sorrow that he was hurled down.,It was a matter of great sorow that he was hurled down.,Spelling Error,,sorow used instead of sorrow,YES,YES,YES,YES,YES
+She was grateful to him.,She was greatful to him.,Spelling Error,,greatful used instead of grateful,YES,YES,NO,YES,YES
+The first show was going to commence.,The first show was going to commance.,Spelling Error,,commance used instead of commence,YES,NO,YES,YES,YES
+ She was constantly harassed by the other students., She was constantly harrassed by the other students.,Spelling Error,,harrassed  used instead of harassed,YES,YES,YES,YES,YES
+"He's about the same height and weight, but he's younger.","He's about the same heigth and weight, but he's younger.",Spelling Error,,heigth used instead of height,YES,YES,YES,YES,YES
+What is the hierarchy in the formulation of different types of environmental plans?,What is the heirarchy in the formulation of different types of environmental plans?,Spelling Error,,heirarchy used instead of hierarchy,YES,YES,YES,YES,YES
+"He has a humorous and poetic side, too.","He has a humrous and poetic side, too.",Spelling Error,,humrous used instead of humorous,YES,YES,YES,YES,YES
+"At the same time, their ignorance was profound.","At the same time, their ignorence was profound.",Spelling Error,,ignorence used instead of ignorance,YES,YES,YES,YES,YES
+I like space to do some independent experiments too.,I like space to do some independant experiments too.,Spelling Error,,independant used instead of independent ,YES,YES,YES,YES,YES
+I'm sure a woman with intelligence will shock you.,I'm sure a woman with intelligance will shock you.,Spelling Error,, intelligance used instead of intelligence,YES,YES,YES,YES,YES
+Her jewelry box was tiny and wooden.,Her jewelery box was tiny and wooden.,Spelling Error,,jewelery used instead of jewelry,YES,YES,NO,YES,NO
+The kernel is sound enough though the husk is a poor thing.,The kernal is sound enough though the husk is a poor thing.,Spelling Error,,kernal used instead of kernel,YES,YES,YES,YES,YES
+"His leisure time was given up to natural history, and especially to mineralogy and botany.","His liesure time was given up to natural history, and especially to mineralogy and botany.",Spelling Error,,liesure used instead of leisure,YES,YES,YES,YES,YES
+She left the library to return Damian's phone.,She left the liberry to return Damian's phone.,Spelling Error,, liberry  used instead of library,YES,YES,NO,NO,NO
+I read the license plate.,I read the licsence plate.,Spelling Error,,licsence used instead of license,YES,YES,YES,YES,YES
+The millennium is the period between the first and second comings of Christ.,The millenium is the period between the first and second comings of Christ.,Spelling Error,,millenium used instead of millennium,YES,YES,YES,YES,YES
+An idea brought a mischievous smile to her lips.,An idea brought a mischeivus smile to her lips.,Spelling Error,, mischeivus used instead of mischievous,YES,YES,YES,YES,YES
+I left him with my neighbor and haven't been able to reach her.,I left him with my neighbour and haven't been able to reach her.,Spelling Error,,neighbour used instead of neighbor,YES,YES,NO,YES,NO
+Occasionally I climbed and shook the trees.,Occassionally I climbed and shook the trees.,Spelling Error,,Occassionally  used instead of Occasionally ,YES,YES,YES,YES,YES
+"""A most unusual occurrence for the season, Madam,"" Fred replied.","""A most unusual occurrance for the season, Madam,"" Fred replied.",Spelling Error,,occurrance used instead of occurrence,YES,YES,YES,YES,YES
+He had perseverance in good works.,He had perseverence in good works.,Spelling Error,,perseverence used instead of perseverance,YES,YES,NO,YES,YES
+"Department personnel operated on the basis of out-of-sight, out-of-mind.","Department personel operated on the basis of out-of-sight, out-of-mind.",Spelling Error,, personel used instead of personnel,YES,YES,NO,YES,YES
+"As a result, nothing disturbed his peaceable possession of the sea.","As a result, nothing disturbed his peaceable posession of the sea.",Spelling Error,, posession used instead of  possession,YES,YES,YES,YES,YES
+"It did not turn his mill, and it was no privilege to him to behold it.","It did not turn his mill, and it was no privelege to him to behold it.",Spelling Error,,privelege  used instead of privilege,YES,YES,YES,YES,YES
+He ran down the receipt that was found in Byrne's car.,He ran down the reciept that was found in Byrne's car.,Spelling Error,, reciept used instead of receipt,YES,YES,YES,YES,YES
+Fred ignored Dean's reference to pudginess.,Fred ignored Dean's referance to pudginess.,Spelling Error,,referance uses instead of reference,YES,YES,YES,YES,YES
+"You know when you cross that threshold, there's no going back.","You know when you cross that threshhold, there's no going back.",Spelling Error,,threshhold used instead of threshold,YES,YES,YES,YES,YES
+Some children like to think that the rules are not relevant to them.,Some children like to think that the rules are not revelent to them.,Spelling Error,, revelent used instead of relevant,YES,NO,NO,YES,NO
+The Twelfth Army is on its way back from Europe.,The Twelth Army is on its way back from Europe.,Spelling Error,,Twelth used instead of Twelfth,YES,YES,YES,YES,YES
+A farmer lived in Jabalpur.,A fermer lived in Jabalpur.,Spelling Error,,fermer used instead farmer,YES,YES,YES,YES,YES
+We went to bed and slept until morning.,We went to bed and slept untill morning.,Spelling Error,,untill used instead of until,YES,YES,YES,YES,NO
+The liquid is then evaporated under a vacuum of 27 to 28 in.,The liquid is then evaporated under a vacum of 27 to 28 in.,Spelling Error,,vacum used instead of vacuum,YES,YES,YES,YES,YES
+Her new movie has received excellent reviews. .,Her new movie has received excillent reviews. ,Spelling Error,,excillent used instead of excellent,YES,YES,YES,YES,YES
+Cunning persons generally play a trick upon gentle ones.,Cuning persons generally play a trick upon gentle ones.,Spelling Error,,Cuning  used instead of Cunning ,YES,YES,YES,YES,NO
+He retrieved orange juice from the fridge.,He retrieved orange juise from the fridge.,Spelling Error,, juise used instead of juice,YES,YES,YES,YES,YES
+The sun doesn’t rise in the West.,The sun don’t rise in the West.,Syntax Error,Subject verb agreement,used don't instead of doesn't (Third person singular),YES,YES,YES,NO,NO
+They are not British.,They is not British.,Syntax Error,Subject verb agreement,used is instead of are (Third person plural ),YES,YES,YES,YES,NO
+I am from the United States.,I is from the United States.,Syntax Error,Subject verb agreement,used is instead of am (First person singular),YES,YES,YES,YES,YES
+John is sleeping at the moment.,John am sleeping at the moment.,Syntax Error,Subject verb agreement,used am instead of is (Third person singular),YES,YES,YES,NO,NO
+Am I wearing the right uniform?,Is I wearing the right uniform?,Syntax Error,Subject verb agreement,used is instead of am (First person singular),YES,YES,NO,YES,NO
+The managers are working on the new project.,The managers is working on the new project.,Syntax Error,Subject verb agreement,used is instead of are (Third person plural ),YES,YES,YES,YES,NO
+I have seen this movie already.,I has seen this movie already.,Syntax Error,Subject verb agreement,used has seen instead of have seen(First person singular),YES,YES,YES,YES,YES
+She has never flown on an airplane before.,She have never flown on an airplane before.,Syntax Error,Subject verb agreement,used have instead of has (Third person singular),YES,NO,YES,YES,NO
+I was their accountant at the time.,I were their accountant at the time.,Syntax Error,Subject verb agreement,used were instead of was (First person singular),YES,YES,YES,YES,YES
+He was not serious.,He were not serious.,Syntax Error,Subject verb agreement,used were instead of was ( Third person singular),YES,YES,YES,YES,YES
+What were you talking about when I arrived?,What was you talking about when I arrived?,Syntax Error,Subject verb agreement,used was instead of were (second person singular),YES,YES,NO,NO,NO
+Were you sleeping when I called?, Was you sleeping when I called?,Syntax Error,Subject verb agreement,used was instead of were (second person singular),YES,YES,NO,NO,NO
+We are heading to the park.,We is heading to the park.,Syntax Error,Subject verb agreement,used is instead of are (first person plural),YES,YES,YES,YES,NO
+She has been to Prague.,She have been to Prague.,Syntax Error,Subject verb agreement,Used have been instead of has been( Third person singular),YES,YES,YES,YES,NO
+He is crying because of the movie.,He are crying because of the movie.,Syntax Error,Subject verb agreement,used are instead of is (Third person singular),YES,YES,YES,YES,YES
+She is running for president.,She am running for president.,Syntax Error,Subject verb agreement,used am instead of is (Third person singular),YES,YES,YES,YES,YES
+I am going home now.,I are going home now.,Syntax Error,Subject verb agreement,used are instead of am (first person singular),YES,YES,YES,YES,NO
+Has she not been feeling well?,Have she not been feeling well?,Syntax Error,Subject verb agreement,used have instead of has (Third person singular),YES,NO,YES,YES,NO
+We were working on our assignment when our parents came home.,We was working on our assignment when our parents came home.,Syntax Error,Subject verb agreement,used was instead of were (first person plural),YES,YES,YES,YES,NO
+The phone rang as they were leaving.,The phone rang as they was leaving.,Syntax Error,Subject verb agreement,used was instead of were (Third person plural),YES,YES,YES,YES,NO
+She is a United States senator.,She is an United States senator.,Syntax Error,Article error,used 'an' instead of 'a',YES,YES,NO,YES,YES
+My mother is an honest woman.,My mother is a honest woman.,Syntax Error,Article error,used 'a' instead of 'an',YES,YES,YES,YES,YES
+Eliza will bring a small gift to Sophie’s party.,Eliza will bring an small gift to Sophie’s party.,Syntax Error,Article error,used 'an' instead of 'a',YES,YES,YES,YES,YES
+I heard an interesting story yesterday.,I heard a interesting story yesterday.,Syntax Error,Article error,used 'a' instead of 'an',YES,YES,YES,YES,YES
+Please give me some water./Please give me water.,Please give me a water.,Syntax Error,Article error,used 'a' instead of some (Uncountable Noun),YES,NO,YES,YES,NO
+Please give me a bottle of water.,Please give me some bottle of water.,Syntax Error,Article error,used 'some' instead of 'a' (countable Noun),YES,NO,NO,NO,NO
+I like to play baseball.,I like to play the baseball.,Syntax Error,Article error,unnecessary used 'the' ,YES,NO,NO,NO,NO
+My sister was always good at math .,My sister was always good at the math .,Syntax Error,Article error,unnecessary used 'the' ,YES,NO,NO,NO,NO
+I like the flowers in your garden.,I like flowers in your garden.,Syntax Error,Article error,missing article 'the',YES,NO,NO,NO,NO
+The Smiths live in Chicago./An Smith live in Chicago.,An Smiths live in Chicago.,Syntax Error,Article error,used 'an' instead of 'the' (plural noun),NO,NO,NO,NO,NO
+The mother is going to the school.,The mother is going to school.,Syntax Error,Article error,missing article 'the',NO,NO,NO,NO,NO
+The student goes to school.,The student goes to the school.,Syntax Error,Article error,unnecessary used 'the' ,YES,NO,NO,NO,NO
+Did you bring an umbrella?,Did you bring a umbrella?,Syntax Error,Article error,used 'a' instead of 'an',YES,YES,YES,YES,YES
+I was born into a poor family.,I was born into an poor family.,Syntax Error,Article error,used 'an' instead of 'a',YES,YES,YES,YES,YES
+Take me to your leader.,Take me to the your leader.,Syntax Error,Article error,unnecessary used 'the' ,YES,NO,YES,YES,NO
+I like the clothes you gave me.,I like clothes you gave me.,Syntax Error,Article error,missing article 'the',YES,YES,NO,NO,NO
+He gave money to a little boy and the boy bought toys for himself.,He gave money to a little boy and boy bought toys for himself.,Syntax Error,Article error,missing article 'the',YES,NO,NO,NO,NO
+He is a doctor.,He is an doctor.,Syntax Error,Article error,used 'an' instead of 'a',YES,YES,YES,YES,YES
+He wants to become an engineer.,He wants to become a engineer.,Syntax Error,Article error,used 'a' instead of 'an',YES,YES,YES,YES,NO
+A potato is rich in carbohydrates.,An potato is rich in carbohydrates.,Syntax Error,Article error,used 'an' instead of 'a',NO,YES,YES,YES,YES
+She has written a book./She has been writing a book. ,She has writing a book.,Syntax Error,Verb form error ,writing  used instead of written / been is not used,YES,YES,NO,NO,NO
+Does she write well?,Does she writing well?,Syntax Error,Verb form error ,writing used instead of write,YES,YES,YES,NO,NO
+Did she come?,Did she came?,Syntax Error,Verb form error ,came used instead of come,YES,YES,NO,YES,NO
+I was very interested in the lecture.,I was very interesting in the lecture.,Syntax Error,Verb form error ,interesting used instead of interested,YES,NO,NO,NO,NO
+We were questioned by the police officer./ We were questioning by the police officer., We were question by the police officer.,Syntax Error,Verb form error ,question used instead of questioned/questioning,YES,YES,YES,NO,NO
+I walk to the store and I buy milk.,I walked to the store and I buy milk.,Syntax Error,Verb form error ,walked used instead of walk,NO,NO,NO,NO,NO
+I will eat fish for dinner and drink milk.,I will eat fish for dinner and drank milk.,Syntax Error,Verb form error ,drank used instead of drink,NO,NO,NO,NO,NO
+We all ate the fish and then made dessert. ,We all eat the fish and then made dessert. ,Syntax Error,Verb form error ,eat used instead  of ate,NO,NO,NO,NO,NO
+Matt liked a fish yesterday.,Matt like a fish yesterday.,Syntax Error,Verb form error ,like used instead of liked,NO,NO,NO,NO,NO
+We enjoy horror movies./We are enjoying horror movies./We were enjoying horror movies.,We enjoying horror movies.,Syntax Error,Verb form error ,enjoying used instead of enjoy  / are is not used / were is not used ,NO,YES,YES,YES,NO
+My friend works there.,My friend working there.,Syntax Error,Verb form error ,working used instead of works,NO,NO,NO,NO,NO
+I had walked the dog./I was walking the dog.,I had walking the dog.,Syntax Error,Verb form error ,walking used instead of walked/had used instead of was,NO,YES,NO,NO,NO
+The boys are singing a song.,The boys are sing a song.,Syntax Error,Verb form error ,sing used instead of singing,YES,YES,NO,NO,NO
+She was asking./She asked./She was asked.,She was ask.,Syntax Error,Verb form error ,ask used instead of asking / was ask used instead of asked / ask used instead of asked,YES,YES,YES,NO,NO
+Rohan has bought a new car.,Rohan has buy a new car.,Syntax Error,Verb form error ,buy used instead of bought,YES,YES,NO,YES,NO
+She was cooking food last night.,She was cooked food last night.,Syntax Error,Verb form error ,cooked used instead of cooking,NO,NO,NO,NO,NO
+The teacher will be teaching maths in the class./The teacher will be taught maths in the class.,The teacher will be teach maths in the class.,Syntax Error,Verb form error ,teach used instead of teaching/taught,YES,YES,NO,YES,NO
+Ram killed Ravan./Ram kills Ravan.,Ram killing Rawan.,Syntax Error,Verb form error ,killing used instead of killed/kills,NO,YES,NO,NO,NO
+He brings water from the river daily.,He brought water from the river daily.,Syntax Error,Verb form error ,brought used instead of brings,NO,NO,NO,NO,NO
+You might buy pens for the exam.,You might bought pens for the exam.,Syntax Error,Verb form error ,bought used instead of buy,YES,YES,YES,YES,NO
+She likes to feed the poor., She likes to feed the poors.,Syntax Error,Noun number error,poors used instead of poor,YES,NO,YES,YES,YES
+Betsy and I agreed as we were eager to share our news with someone./Betsy and I agreed as we were eager to share our pieces of news with someone./Betsy and I agreed as we were eager to share our items of news with someone.,Betsy and I agreed as we were eager to share our newses with someone.,Syntax Error,Noun number error,newses used instead of news,YES,NO,NO,YES,YES
+The teacher gave us some advice.,The teacher gave us some advices.,Syntax Error,Noun number error,advices used instead of advice,YES,NO,YES,NO,YES
+It would be nice getting away from the smog and traffic for a while.,It would be nice getting away from the smog and traffics for a while.,Syntax Error,Noun number error, traffics used instead of  traffic,NO,NO,NO,NO,YES
+The kitchen is fully equipped with a wide range of cooking utensils and matching crockery and cutlery.,The kitchen is fully equipped with a wide range of cooking utensils and matching crockeries and cutlery.,Syntax Error,Noun number error,crockeries used instead of crockery,NO,NO,NO,NO,NO
+I saw many deer in the jungle.,I saw many deers in the jungle.,Syntax Error,Noun number error,deers used instead of deer,NO,NO,NO,YES,NO
+"Still, goats and sheep had been in North America for hundreds of years.","Still, goats and sheeps had been in North America for hundreds of years.",Syntax Error,Noun number error,sheeps used instead of sheep,NO,YES,YES,YES,YES
+I would like to buy some furniture.,I would like to buy some furnitures.,Syntax Error,Noun number error,furnitures used instead of furniture,YES,YES,NO,YES,NO
+ Have you got any information?/ Have you got any pieces of information?,Have you got any informations?,Syntax Error,Noun number error,informations used instead of information/pieces of information,YES,YES,NO,YES,YES
+ Have you packed your luggage?, Have you packed your luggages?,Syntax Error,Noun number error, luggages used instead of  luggage,YES,NO,NO,YES,YES
+Is there any bread?,Is there any breads?,Syntax Error,Noun number error, breads used instead of  bread,YES,NO,YES,NO,NO
+We went for a drive to enjoy the scenery.,We went for a drive to enjoy the sceneries.,Syntax Error,Noun number error,sceneries used instead of scenery,NO,NO,NO,NO,NO
+Daughters and dead fish are no keeping wares.,Daughters and deads fish are no keeping wares,Syntax Error,Noun number error,deads used instead of dead,NO,YES,NO,YES,YES
+"Large numbers of unemployed, ex-criminal and other needy persons have been aided or dealt with.","Large numbers of unemployeds, ex-criminal and other needy persons have been aided or dealt with.",Syntax Error,Noun number error,unemployeds used instead of unemployed,YES,NO,NO,YES,YES
+"Nowadays, many people travel by car.","Nowadays, many peoples travel by car.",Syntax Error,Noun number error,peoples used instead of people,NO,NO,NO,NO,YES
+Her knowledge in French is nearly perfect.,Her knowledges in French is nearly perfect.,Syntax Error,Noun number error, knowledges used instead of  knowledge,YES,NO,NO,YES,NO
+He often rolled his eyes about when he was doing his homework.,He often rolled his eyes about when he was doing his homeworks.,Syntax Error,Noun number error, homeworks used instead of  homework,YES,NO,NO,YES,YES
+The city sustained heavy damage during the war.,The city sustained heavy damages during the war.,Syntax Error,Noun number error,damages  used instead of damage,NO,NO,NO,NO,NO
+Food issues are complex and deeply emotional.,Foods issues are complex and deeply emotional.,Syntax Error,Noun number error,Foods used instead of Food,YES,YES,NO,NO,NO
+I'm sure you'll learn your lines for the play with enough practice.,I'm sure you'll learn your lines for the play with enough practices.,Syntax Error,Noun number error,practices used instead of practice,YES,NO,NO,NO,NO
+He asked for a coffee.,He asked a coffee.,Syntax Error,Preposition error,missing preposition 'for',YES,NO,NO,NO,NO
+He was prevented from coming.,He was prevented to come.,Syntax Error,Preposition error,to' used instead of 'from',NO,NO,NO,NO,NO
+I met your friend.,I met with your friend.,Syntax Error,Preposition error,unnessary use of preposition 'with',YES,NO,NO,NO,NO
+He met with misfortune,He met misfortune.,Syntax Error,Preposition error,missing preposition 'with',NO,NO,NO,NO,NO
+She insisted on paying.,She insisted to paying.,Syntax Error,Preposition error,to' used instead of 'on',YES,NO,NO,NO,NO
+Let's go riding.,Let's go for riding.,Syntax Error,Preposition error,unnessary use of preposition  'for',YES,NO,NO,NO,NO
+We went for a walk., We went a walk.,Syntax Error,Preposition error,missing preposition 'for',YES,NO,NO,NO,NO
+I haven't seen a movie for a long time.,This is the first time I have seen a movie since a long time.,Syntax Error,Preposition error,since' used instead  of 'for',YES,YES,NO,NO,NO
+He had a daughter by his former wife.,He had a daughter of his former wife.,Syntax Error,Preposition error,of' used instead  of 'by',NO,NO,NO,NO,NO
+It was the worst storm in ten years.,It was the worst storm since ten years.,Syntax Error,Preposition error,since' used instead of 'in',NO,NO,NO,NO,NO
+I put the coin in my pocket.,I put the coin at my pocket.,Syntax Error,Preposition error,at' used instead of 'in',YES,YES,NO,NO,NO
+Don’t worry too much about making mistakes.,Don’t worry too much for making mistakes.,Syntax Error,Preposition error,for' used instead of 'about',YES,NO,NO,NO,NO
+The judge will decide the case.,The judge will decide upon the case.,Syntax Error,Preposition error,unnessary preposition 'upon',NO,NO,NO,NO,NO
+We crossed the river in a boat.,We crossed the river with a boat.,Syntax Error,Preposition error,with' used instead of 'in',NO,NO,NO,NO,NO
+ She got into the taxi.,She got on the taxi.,Syntax Error,Preposition error,on' used instead of 'into',NO,NO,NO,NO,NO
+The cat got in through the window to catch the mouse.,The cat got in from the window to catch the mouse.,Syntax Error,Preposition error,from' used instead of 'through',NO,NO,NO,NO,NO
+I am going home.,I am going to home.,Syntax Error,Preposition error,unnessary used  of preposition 'to',YES,NO,NO,YES,NO
+What is the difference between these two houses?,What is the difference of these two houses?,Syntax Error,Preposition error,of' used instead of 'between',YES,NO,NO,NO,NO
+"With the help of my mom, I finished the lunch quickly.","Under the help of my mom, I finished the lunch quickly.",Syntax Error,Preposition error,under' used instead of 'with',NO,NO,NO,NO,NO
+"There was a limit to his patience, and he had crossed it.","There was a limit in his patience, and he had crossed it.",Syntax Error,Preposition error,in' used instead of 'to',NO,NO,NO,NO,NO
+The tiger of Serghei took a lot of space.,The tiger of Serghei took a lot of place.,Semantic Error,Word Choice Error,place' used instead of 'space',NO,NO,NO,NO,NO
+This problem is huge than I expected.,This problem is really bigger than I expected.,Semantic Error,Word Choice Error,really bigger' used instead of 'huge',NO,NO,NO,NO,NO
+"I don’t remember my height, but I am short.","I don’t remember my tall, but I am short.",Semantic Error,Word Choice Error,tall' used instead of 'height',NO,NO,NO,NO,NO
+"I like eating at Lonimar, my favorite Dominican resturant.","I like eating at Lonimar, my favorite Dominican food.",Semantic Error,Word Choice Error,food' used instead of 'resturant',NO,NO,NO,NO,NO
+All prisoners had committed serious crimes.,All prisoners had committed heavy crimes.,Semantic Error,Word Choice Error,heavy crimes' used instead of 'crimes',NO,NO,NO,NO,NO
+It was a brief difficult question.,It was a little difficult question.,Semantic Error,Word Choice Error,little' used instead of 'brief',NO,NO,NO,NO,NO
+The police asked for a brief description of the car,The police asked for a little description of the car,Semantic Error,Word Choice Error,in' used instead of 'to',NO,NO,NO,NO,NO
+He told me he had took several trainings.,He told me he had followed several trainings.,Semantic Error,Word Choice Error,followed' used instead of 'took',NO,NO,NO,NO,NO
+This website is called “Biology Corner.”,This website is named “Biology Corner.”,Semantic Error,Word Choice Error,named' used instead of 'called',NO,NO,NO,NO,NO
+I  told you before Almost foreigner like pizza.,I said you before Almost foreigner like pizza.,Semantic Error,Word Choice Error,said' used instead of 'told',NO,YES,NO,NO,NO
+Most students students are tired.,Almost students are tired.,Semantic Error,Word Choice Error,almost' used instead of 'most',NO,NO,NO,NO,NO
+This website is a huge game changer for me.,This website is a huge difference maker for me.,Semantic Error,Word Choice Error,difference maker' used instead of 'game changer',NO,NO,NO,NO,NO
+I am 5 feet.,I measure 5 feet.,Semantic Error,Word Choice Error,measure' used instead of 'am',NO,NO,NO,NO,NO
+The thing is that I did not know or think that this field of study has as many responsibilities.,The thing is that I did not know or think that this field of study has as much responsibilities.,Semantic Error,Word Choice Error,much' used instead of 'many',YES,NO,NO,YES,NO
+The metro is ten minutes away  on foot.,The metro is ten minutes away by walking.,Semantic Error,Word Choice Error,by walking' used instead of 'on foot',NO,NO,NO,NO,NO
+Every dentist needs a dental assistant to help with cleaning and preparation.,Every dentist needs a dental collaborator to help with cleaning and preparation.,Semantic Error,Word Choice Error,collaborator' used instead of 'assistant',NO,NO,NO,NO,NO
+"On my last visit to the dentist, I had a root canal treatment.","On my last visit to the dentist, I had a root waterway treatment.",Semantic Error,Word Choice Error,waterway' used instead of 'canal',NO,NO,NO,NO,NO
+"In my new job, I have to make a lot of important decisions.","In my new job, I have to make a lot of important choices.",Semantic Error,Word Choice Error,choices' used instead of 'decisions',NO,NO,NO,NO,NO
+"Finally, watching random video on YouTube make me smile.","Finally, look random video on YouTube make me smile.",Semantic Error,Word Choice Error,look' used instead of 'watching',NO,NO,NO,NO,NO
+Words poured from his mouth.,Words pored from his mouth.,Semantic Error,Word Choice Error,pored' used instead of 'poured',YES,YES,YES,NO,YES
+"The students were up until midnight, pore over their books.","The students were up until midnight, pouring over their books.",Semantic Error,Word Choice Error,pouring' used instead of 'pore',NO,NO,NO,NO,NO
+The news is very surprising.,The news is much surprising.,Semantic Error,Word Choice Error,much' used instead of 'very',NO,NO,NO,NO,NO
+The boss of another multinational wants us to merge our two companies.,The boss of another multinational wants us to join our two companies.,Semantic Error,Word Choice Error,join' used instead of 'merge',NO,NO,NO,NO,NO
+Dinner is the main meal of the day.,Dinner is the main dish of the day.,Semantic Error,Word Choice Error,dish' used instead of 'meal',NO,NO,NO,NO,NO
+It was a long way between the hotel and the beach.,It was a long distance between the hotel and the beach.,Semantic Error,Word Choice Error,distance' used instead of 'way',NO,NO,NO,NO,NO
+The magazine is published every month.,The magazine is printed every month.,Semantic Error,Word Choice Error,printed' used instead of 'published',NO,NO,NO,NO,NO
+Unemployment is a very significant problem.,Unemployment is a very important problem.,Semantic Error,Word Choice Error,important' used instead of 'signifacnt',NO,NO,NO,NO,NO
+"While I was walking, I see my friend, and he proposed to me to get in his car.","While I was walking, I saw my friend, and he proposed to me to embark in his car.",Semantic Error,Word Choice Error,embark' used instead of 'get',NO,NO,NO,NO,NO
+Basement flats are often dark and damp.,Basement flats are often dark and moist.,Semantic Error,Word Choice Error,moist' used instead of 'damp',NO,NO,NO,NO,NO
+"Yesterday , I had a dream.","Last day, I had a dream.",Semantic Error,Word Choice Error,Last day' used instead of 'Yesterday',NO,NO,NO,NO,NO
+It was very very tasty.,It was very delicious.,Semantic Error,Word Choice Error,delicious' used instead of 'very tasty',NO,NO,NO,NO,NO
+The teachers are very kind and understanding.,The teachers are very kind and comprehensive.,Semantic Error,Word Choice Error,comprehensive' used instead of 'understanding',NO,NO,NO,NO,NO
+"When I arrive at work, I check my new email on my computer.","When I arrive at work, I take my new email on my computer.",Semantic Error,Word Choice Error,take' used instead of 'check',NO,NO,NO,NO,NO
+I am  really a blunderer.,I am very a blunderer.,Semantic Error,Word Choice Error,very' used instead of 'really',NO,NO,NO,NO,NO
+Results suggest the relationships among these variables.,Results found the relationships among these variables.,Semantic Error,Word Choice Error,found' used instead of 'suggest',NO,NO,NO,NO,NO
+We have received a great number of complaints./We have received a lot of complaints./We have received many complaints./We have received plenty of complaints./,We have received a great deal of complaints.,Semantic Error,Word Choice Error,deal' used instead of 'number',YES,NO,NO,NO,NO
+He won  a lot of money on the lottery.,He earned a lot of money on the lottery.,Semantic Error,Word Choice Error,earned' used instead of 'won',NO,NO,NO,NO,NO
+I speak French  forever.,I speak French since ever.,Semantic Error,Word Choice Error,since ever' used instead of 'forever',NO,NO,NO,NO,NO
+I work as a salesperson in a clothes shop.,I work as a sales in a clothes shop.,Semantic Error,Word Choice Error,sales' used instead of 'salesperson',NO,NO,NO,NO,NO
+"I use English during my work, and when I speak to friend who only speak English.",I use English during my work on when I speak to friend who only speak English.,Semantic Error,Word Choice Error,on' used instead of 'and',NO,NO,NO,NO,NO
+I have been speaking French since I’m born.,I have been talking French since I’m born.,Semantic Error,Word Choice Error,talking' used instead of 'speaking',NO,NO,NO,NO,NO
+"When you are not in your best, they are always behind you like brothers.","When you are not in your best, they are every time behind you like brothers.",Semantic Error,Word Choice Error,always' used instead of 'every time',NO,NO,NO,NO,NO
+"Keeping in mind that the roads will be busy,I think that we should make an early start.","Having in mind that the roads will be busy,I think that we should make an early start.",Semantic Error,Word Choice Error,Having' used instead of 'keeping',NO,NO,NO,NO,NO
+That cake was really good.,That cake was really well.,Semantic Error,Word Choice Error,well' used instead of 'good',NO,YES,NO,NO,NO
+Only 40% of the samples showed full compliance for the required characteristics.,Only 40% of the samples showed entire compliance for the required characteristics.,Semantic Error,Word Choice Error,entire' used instead of 'full',NO,NO,NO,NO,NO
+The imbalance between the compositions of the combustion residues can cause changes in accuracy and efficiency.,The unbalance between the compositions of the combustion residues can cause changes in accuracy and efficiency.,Semantic Error,Word Choice Error,unbalanced' used instead of 'imbalance',NO,NO,NO,NO,NO
+The device was designed to withstand extreme variations in temperature.,The device was constructed to withstand extreme variations in temperature.,Semantic Error,Word Choice Error,constructed' used instead of 'designed',NO,NO,NO,NO,NO
+We have developed a new method to calculate the energy efficiency.,We have devised a method to calculate the energy efficiency.,Semantic Error,Word Choice Error,devised' used instead of 'developed',NO,NO,NO,NO,NO
+"Because of the instability in this process, the steady-state condition may vary.","Because of the unstableness of this process, the steady-state condition may vary.",Semantic Error,Word Choice Error,unstableness' used instead of 'instability',NO,NO,NO,NO,NO
+Researchers should exercise extreme caution when performing this procedure./Researchers should keep up extreme caution when performing this procedure.,Researchers should maintain extreme caution when performing this procedure.,Semantic Error,Word Choice Error,maintain' used instead of 'exercise',NO,NO,NO,NO,YES
+The principal will hold an assembly tomorrow.,The principle will hold an assembly tomorrow.,Semantic Error,Contextual Error,principle used instead of principal,NO,NO,NO,NO,NO
+The professor explained Platonic principles to us.,The professor explained Platonic principals to us.,Semantic Error,Contextual Error,principals used instead of principles,NO,NO,NO,YES,YES
+We're glad to help.,Where glad to help.,Semantic Error,Contextual Error,where used instead we're,NO,YES,NO,NO,NO
+Where are you going?,We're are you going?,Semantic Error,Contextual Error,we're used instead of where,YES,YES,NO,NO,YES
+My cousins are all tall and blonde.,My cousins our all tall and blonde.,Semantic Error,Contextual Error,our used instead of are ,YES,NO,NO,NO,NO
+We will bring our cameras to take pictures.,We will bring are cameras to take pictures.,Semantic Error,Contextual Error,are used instead of our,YES,NO,NO,NO,NO
+My glasses are by the bed.,My glasses are buy the bed.,Semantic Error,Contextual Error,buy used instead of by,NO,NO,NO,NO,YES
+I will buy new glasses after the doctor’s appointment.,I will by new glasses after the doctor’s appointment.,Semantic Error,Contextual Error,by used instead of buy,YES,YES,YES,YES,NO
+I know the male peacock sports the brilliant feathers.,I no the male peacock sports the brilliant feathers.,Semantic Error,Contextual Error,no used instead of know,NO,YES,YES,NO,YES
+I have no time to visit the zoo this weekend.,I have know time to visit the zoo this weekend.,Semantic Error,Contextual Error,know used instead of no,NO,YES,YES,YES,NO
+My work will require quite a lot of concentration.,My work will require quiet a lot of concentration.,Semantic Error,Contextual Error,quiet used instead of quite,YES,YES,NO,YES,NO
+I need a quiet room to complete the assignments.,I need a quit room to complete the assignments.,Semantic Error,Contextual Error,quit used instead of quiet,YES,YES,YES,YES,NO
+"When bowling, she practices the right form.","When bowling, she practices the write form.",Semantic Error,Contextual Error,write used instead of right,NO,YES,NO,NO,YES
+"After the team members bowl, I will write down their scores.","After the team members bowl, I will right down their scores.",Semantic Error,Contextual Error,right used instead of write,YES,YES,YES,YES,NO
+She set the mug on the saucer.,She sit the mug on the saucer.,Semantic Error,Contextual Error,sit used instead of set,NO,NO,NO,YES,NO
+I’ll sit on the sofa while she brews the tea.,I’ll set on the sofa while she brews the tea.,Semantic Error,Contextual Error,set used instead of sit,NO,NO,NO,NO,NO
+My dentist gave me medicine to lessen the pain of my aching tooth.,My dentist gave me medicine to lesson the pain of my aching tooth.,Semantic Error,Contextual Error,lesson used  instead of lessen,YES,YES,NO,YES,YES
+Today’s lesson was about mortgage interest rates.,Today’s lessen was about mortgage interest rates.,Semantic Error,Contextual Error,lessen used instead of lesson,YES,YES,YES,YES,NO
+The novice teacher’s patience with the unruly class was astounding.,The novice teacher’s patience with the unruly class was astounding.,Semantic Error,Contextual Error,patience used instead of patient,NO,NO,NO,NO,NO
+"The patients was tired of eating the hospital food, and they could not wait for a home-cooked meal.","The patient was tired of eating the hospital food, and they could not wait for a home-cooked meal.",Semantic Error,Contextual Error,patient used instead of patience,NO,NO,NO,NO,NO
+"For once, there was peace between the argumentative brothers.","For once, there was piece between the argumentative brothers.",Semantic Error,Contextual Error,piece used instead of peace,NO,YES,YES,YES,NO
+"I would like a large piece of cake, thank you.","I would like a large peace of cake, thank you.",Semantic Error,Contextual Error,peace used instead of piece,YES,YES,YES,YES,YES
+He sees a whale through his binoculars.,He seas a whale through his binoculars.,Semantic Error,Contextual Error,seas used instead of sees,NO,YES,YES,YES,YES
+The tidal fluctuation of the oceans and seas are influenced by the moon.,The tidal fluctuation of the oceans and sees are influenced by the moon.,Semantic Error,Contextual Error,sees used instead of seas,YES,YES,NO,YES,YES
+She threw the football with perfect form.,She through the football with perfect form.,Semantic Error,Contextual Error,through used instead of threw,NO,NO,YES,NO,NO
+She walked through the door and out of his life.,She walked threw the door and out of his life.,Semantic Error,Contextual Error,threw used instead of through,NO,NO,YES,YES,YES
+An edition of his Latin lyrics appeared at Regensburg in 1884.,An addition of his Latin lyrics appeared at Regensburg in 1884.,Semantic Error,Contextual Error,addition used instead of edition,YES,NO,NO,NO,NO
+ He needed to adapt his strategies when dealing with her., He needed to adopt his strategies when dealing with her.,Semantic Error,Contextual Error,adopt used instead of adapt,YES,NO,NO,NO,NO
+Again that immoral woman.,Again that amoral woman.,Semantic Error,Contextual Error,amoral used instead of immoral,NO,NO,NO,NO,NO
+Critics love the clever camera angles the director used in the film.,Critics love the clever camera angel the director used in the film.,Semantic Error,Contextual Error,angel used instead of angles,NO,NO,NO,NO,YES
+The ascent of Fuji presents no difficulties.,The accent of Fuji presents no difficulties.,Semantic Error,Contextual Error,accent used instead of ascent,NO,NO,NO,NO,NO
+ Each library assistant was given a specific section of the library to put away books., Each library assistance was given a specific section of the library to put away books.,Semantic Error,Contextual Error,assistance used instead of assistant,YES,NO,NO,NO,NO
+He even had a birth certificate for me.,He even had a berth certificate for me.,Semantic Error,Contextual Error,berth used instead of birth,NO,YES,YES,YES,YES
+"Her lips were full, a perfect bow, and her large eyes steady and concerned.","Her lips were full, a perfect bough, and her large eyes steady and concerned.",Semantic Error,Contextual Error,bough used instead of bow,NO,NO,NO,NO,YES
+ Two scenes were cut by the censor., Two scenes were cut by the censure.,Semantic Error,Contextual Error,censure used instead of censor,NO,YES,NO,NO,NO
+ The Capitol is a magnificent building., The Capital is a magnificent building.,Semantic Error,Contextual Error,capital used instead of capitol,NO,NO,NO,NO,NO
+These courses cover a twelve-week period and are organised into three four-week modules.,These coarse cover a twelve-week period and are organised into three four-week modules.,Semantic Error,Contextual Error,coarse used instead of courses,NO,NO,NO,NO,YES
+"Hold on, I'll check in my diary. ","Hold on, I'll check in my dairy",Semantic Error,Contextual Error,dairy used instead of diary,NO,NO,YES,YES,YES
+I prefer to use this app because it allows me to devise my own music playlists.,I prefer to use this app because it allows me to device my own music playlists.,Semantic Error,Contextual Error,device used instead of devise,NO,NO,NO,YES,YES
+The same dye is used to color the tails.,The same die is used to color the tails.,Semantic Error,Contextual Error,die used instead of dye,NO,NO,NO,NO,NO
+ I hope you fare well on your journey around the world!, I hope you fair well on your journey around the world!,Semantic Error,Contextual Error,fair used instead of fare,NO,NO,NO,YES,NO
+There were many herds and flocks.,There were many heard and flocks.,Semantic Error,Contextual Error,heard used instead of herds,NO,NO,YES,NO,NO
+It's been a whole week since I've seen him,It's been a hole week since I've seen him,Semantic Error,Contextual Error,hole used instead of whole,YES,YES,YES,NO,NO
+"In the latter category, one text stuck out.","In the later category, one text stuck out.",Semantic Error,Contextual Error,later used instead of latter,YES,YES,YES,NO,NO
+The team is playing well and their morale is high.,The team is playing well and their moral is high.,Semantic Error,Contextual Error,moral used instead of morale,YES,YES,NO,NO,YES
+It's been over a year since I've had a peek at him. ,It's been over a year since I've had a peak at him. ,Semantic Error,Contextual Error,peak used instead of peek,YES,NO,NO,NO,NO
+We raze the place.,We raise the place.,Semantic Error,Contextual Error,raise used instead of raze,NO,NO,NO,NO,NO
+We've played better since you joined the team.,We've played better sense you joined the team.,Semantic Error,Contextual Error,sense used instead of since,YES,YES,NO,NO,NO
+The menu changes from week to week.,The menu changes from weak to weak.,Semantic Error,Contextual Error,weak used instead of week,NO,NO,NO,NO,YES
+The waves crashed onto the rocks.,The waive crashed onto the rocks.,Semantic Error,Contextual Error,waive used instead of waves,YES,YES,YES,NO,YES
+,,,,Over All Accuracy,44.4,34.6,38.6,36,28.7425149700599
