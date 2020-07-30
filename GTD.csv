@@ -39,10 +39,8 @@ That is the problem when people have conflict. They attack each other personally
 I had never eaten so much.,Had never eaten so much.,Sentence Structure Error,Fragment error,missing subject,YES,NO,NO,NO,NO
 I was nervous.,Being nervous.,Sentence Structure Error,Fragment error,missing subject,NO,NO,NO,NO,NO
 The chips and beer tasted great.,The chips and beer.,Sentence Structure Error,Fragment error,missing verb,NO,NO,NO,NO,NO
-"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.
-",I enjoyed the anthology very much the stories still remain in my mind.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
-"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.
-","I enjoyed the anthology very much, the stories still remain in my mind.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
+"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.",I enjoyed the anthology very much the stories still remain in my mind.,Sentence Structure Error,Run-on error,missing conjunction,NO,NO,NO,NO,NO
+"I enjoyed the anthology very much. The stories still remain in my mind./I enjoyed the anthology very much; the stories still remain in my mind./I enjoyed the anthology very much, so the stories still remain in my mind.","I enjoyed the anthology very much, the stories still remain in my mind.",Sentence Structure Error,Run-on error,wrong comma,NO,NO,YES,NO,NO
 "After the concert, I went straight home. ",After the concert.,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
 My brother bought a cake and ate the whole thing. ,And ate the whole thing. ,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
 "Everyone went to the concert, including me. ",Including me. ,Sentence Structure Error,Fragment error,missing main clause,NO,NO,NO,NO,NO
@@ -124,9 +122,7 @@ It really ended just like that?/It ended just like that. ,It really ended just l
 "There are over 15,000 protestors gathered outside Capitol Hill.","There are over 15,000 protestors gathered, outside Capitol Hill.",Punctuation Error,,unnecessary use comma,NO,NO,YES,NO,NO
 "All I’m taking on the road trip is my truck, along with its spare tire; a radio, which only kind of works; and my dog.","All I’m taking on the road trip is my truck, along with its spare tire a radio, which only kind of works; and my dog.",Punctuation Error,,missing the semi colon,NO,NO,NO,NO,NO
 "Jen hadn’t enjoyed the play; as a result, she didn’t recommend it to her friend.",Jen hadn’t enjoyed the play; as a result; she didn’t recommend it to her friend.,Punctuation Error,,used semicolon instead of comma,NO,NO,NO,NO,NO
-"I hope the traffic isn't too bad; I don't want to be late for the movie.
-","I hope the traffic isn't too bad I don't want to be late for the movie.
-",Punctuation Error,,missing the semi colon,NO,NO,NO,NO,NO
+I hope the traffic isn't too bad; I don't want to be late for the movie.,I hope the traffic isn't too bad I don't want to be late for the movie.,Punctuation Error,,missing the semi colon,NO,NO,NO,NO,NO
 "My father had a phrase he was fond of repeating: ‘Hope for the best, but prepare for the worst.’","My father had a phrase he was fond of repeating ‘Hope for the best, but prepare for the worst.’",Punctuation Error,,missing the colon,NO,NO,NO,NO,NO
 Do you have any sugar-free cookies?,Do you have any sugar free cookies?,Punctuation Error,,missing the hyphen,NO,NO,NO,NO,YES
 It is the only 10-storey building in the town./It is the only 10-story building in the town.,It is the only 10-storey building in the town?,Punctuation Error,,unnecessary question mark,NO,NO,NO,NO,NO
@@ -163,15 +159,12 @@ We’ll have to rely on people’s donations to stay open.,We’ll have to rely 
 "Taking out the crumpled paper, I looked at the telephone number.","Taking out the crumpled paper I looked at the, telephone number.",Punctuation Error,,misplace comma,NO,NO,YES,NO,NO
 "He is, as we say, a creature of circumstance.","He is, as we say a creature of circumstance.",Punctuation Error,,missing the comma,NO,NO,YES,NO,NO
 "It was blindingly, glaringly hot.",It was blindingly glaringly hot.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
-"Everything else on the farm was destroyed.
-","Everything else on the farm, was destroyed.",Punctuation Error,,unnecessary comma,YES,NO,YES,NO,NO
+Everything else on the farm was destroyed.,"Everything else on the farm, was destroyed.",Punctuation Error,,unnecessary comma,YES,NO,YES,NO,NO
 The bowers and arbors in these villa gardens are among the loveliest we’ve seen.,"The bowers and arbors in these villa gardens, are among the loveliest we’ve seen.",Punctuation Error,,unnecessary comma,YES,NO,NO,NO,NO
-"The Vespa was somehow far more stable than I had expected and wonderfully easy to ride. /The Vespa, was somehow far more stable than I had expected and wonderfully easy to ride. ","The Vespa, was somehow, far more stable than I had 
-expected and wonderfully easy to ride. ",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
+"The Vespa was somehow far more stable than I had expected and wonderfully easy to ride. /The Vespa, was somehow far more stable than I had expected and wonderfully easy to ride. ","The Vespa, was somehow, far more stable than I had expected and wonderfully easy to ride. ",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
 "Our panelists hail from San Francisco, Los Angeles, and Seattle./Our panelists hail from San Francisco; Los Angeles and Seattle.","Our panelists hail from San Francisco; Los Angeles, and Seattle.",Punctuation Error,,used semicolon instead of comma  ,NO,NO,NO,NO,NO
 These boys possess what Jane calls “a one-track mind.”/These boys have what Jane calls: “a one-track mind.”,These boys possess what Jane calls: “a one-track mind.”,Punctuation Error,,unnecessary use colon,NO,NO,NO,NO,NO
-"Macduff’s grief (as Malcolm has urged) is converted to
-expedient anger."," Macduff’s grief, (as Malcolm has urged) is converted to expedient anger.",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
+Macduff’s grief (as Malcolm has urged) is converted toexpedient anger.," Macduff’s grief, (as Malcolm has urged) is converted to expedient anger.",Punctuation Error,,unnecessary comma,NO,NO,YES,NO,NO
  Betting circulars cannot be sent to those under twenty-one years of age.,Betting circulars cannot be sent to those under twenty one years of age.,Punctuation Error,,missing the hyphen,YES,NO,YES,YES,YES
 Where is the gas station?,Where is the gas station.,Punctuation Error,,missing the question mark,YES,NO,YES,NO,NO
 Who is your teacher?/Who? Is your teacher.,Who? is your teacher.,Punctuation Error,,misplace use question mark,NO,NO,NO,NO,NO
@@ -186,39 +179,26 @@ How did you do that?,"How, did you do that?",Punctuation Error,,unnecessary use 
 "The dog is brown, right?",The dog is brown right?,Punctuation Error,,missing the comma,YES,NO,YES,NO,NO
 "Lisa is not here, is she?","Lisa is not here, is she",Punctuation Error,,missing question mark,NO,NO,YES,NO,NO
 I asked her to pay the bill./Did I ask her to pay the bill?,I asked her to pay the bill?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
-"The teacher asked for their homework.
-
-","The teacher asked for their homework?
-
-",Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+The teacher asked for their homework.,The teacher asked for their homework?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
 My sister's name is Lisa.,My sisters name is Lisa.,Punctuation Error,,missing the apostrophe,YES,YES,YES,NO,NO
 The baby's name is Grace.,The babys name is Grace.,Punctuation Error,,missing the apostrophe,YES,YES,YES,NO,YES
 School starts on Wednesday./Does school start on Wednesday? ,School starts on Wednesday?,Punctuation Error,,used the question mark instead of full stop,NO,NO,NO,NO,NO
-"I like to eat pizza.
-","I like to eat pizza!
-",Punctuation Error,,used the exclamation mark,NO,NO,NO,NO,NO
+I like to eat pizza.,I like to eat pizza!,Punctuation Error,,used the exclamation mark,NO,NO,NO,NO,NO
 The baby is crying.,The baby is crying,Punctuation Error,,missing the full stop,NO,NO,NO,NO,NO
 The dog is brown.,The dog is brown?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
-"She asked me why I didn't go to school yesterday.
-",She asked me why I didn't go to school yesterday?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
+She asked me why I didn't go to school yesterday.,She asked me why I didn't go to school yesterday?,Punctuation Error,,used question mark instead of full stop,NO,NO,NO,NO,NO
 "She has a lovely, black horse.",She has a lovely black horse.,Punctuation Error,,missing the comma,NO,NO,NO,NO,NO
 I like to read in a brightly lit room.,"I like to read in a brightly, lit room.",Punctuation Error,,used the comma,NO,NO,YES,NO,NO
-"We walked the dog for a friendly, elderly lady./We walked, the dog for a friendly elderly woman.
-","We walked, the dog for a friendly elderly lady.
-",Punctuation Error,,misplaced comma,NO,NO,NO,NO,NO
+"We walked the dog for a friendly, elderly lady./We walked, the dog for a friendly elderly woman.","We walked, the dog for a friendly elderly lady.",Punctuation Error,,misplaced comma,NO,NO,NO,NO,NO
 He was born in March 1981.,"He was born in March, 1981.",Punctuation Error,,unnecessary used comma ,YES,NO,YES,YES,NO
 "I am traveling to Austin, Texas, to visit my sister.","I am traveling to Austin Texas, to visit my sister.",Punctuation Error,,missing the comma,NO,YES,YES,NO,NO
-"She was born in San Diego, California, in 1980.
-","She was born in San Diego California, in 1980.
-",Punctuation Error,,missing the comma,NO,YES,YES,NO,NO
+"She was born in San Diego, California, in 1980.","She was born in San Diego California, in 1980.",Punctuation Error,,missing the comma,NO,YES,YES,NO,NO
 "Yes, teacher, I will finish my work.","Yes, teacher, I will finish my work?",Punctuation Error,,used the question mark,NO,NO,NO,NO,NO
 "Do you like horses, Joe?","Do you like horses, Joe.",Punctuation Error,,missing the question mark,NO,NO,NO,NO,NO
 "Now, it is time to start the movie.","Now, it is time to start the movie!",Punctuation Error,, exclamation mark instead of full stop,NO,NO,NO,NO,NO
 "Finally, I am finished with my homework!",Finally I am finished with my homework!,Punctuation Error,,missing the comma,YES,NO,YES,YES,NO
 That dog is going to bite me!,That dog is going to bite me.,Punctuation Error,,missing the exclamation mark,NO,NO,NO,NO,NO
-"The car is ours.
-","The car is our's.
-",Punctuation Error,,unnecessary used the apostrophe,YES,NO,YES,YES,NO
+The car is ours.,The car is our's.,Punctuation Error,,unnecessary used the apostrophe,YES,NO,YES,YES,NO
 He often quarrelled with his friends.,He often quarelled with his friends.,Spelling Error,,quarelled used instead of quarrelled,YES,NO,YES,YES,YES
 We haven't ever been there.,We haven't ever beeen there.,Spelling Error,,beeen used instead of been,YES,YES,YES,YES,YES
 It was impossible to know his father's name.,It was impossibble to know his father's name.,Spelling Error,,impossibble used instead of impossible,YES,YES,YES,YES,YES
@@ -303,7 +283,7 @@ The millennium is the period between the first and second comings of Christ.,The
 An idea brought a mischievous smile to her lips.,An idea brought a mischeivus smile to her lips.,Spelling Error,, mischeivus used instead of mischievous,YES,YES,YES,YES,YES
 I left him with my neighbor and haven't been able to reach her.,I left him with my neighbour and haven't been able to reach her.,Spelling Error,,neighbour used instead of neighbor,YES,YES,NO,YES,NO
 Occasionally I climbed and shook the trees.,Occassionally I climbed and shook the trees.,Spelling Error,,Occassionally  used instead of Occasionally ,YES,YES,YES,YES,YES
-"""A most unusual occurrence for the season, Madam,"" Fred replied.","""A most unusual occurrance for the season, Madam,"" Fred replied.",Spelling Error,,occurrance used instead of occurrence,YES,YES,YES,YES,YES
+"'A most unusual occurrence for the season, Madam,' Fred replied.","'A most unusual occurrance for the season, Madam,' Fred replied.",Spelling Error,,occurrance used instead of occurrence,YES,YES,YES,YES,YES
 He had perseverance in good works.,He had perseverence in good works.,Spelling Error,,perseverence used instead of perseverance,YES,YES,NO,YES,YES
 "Department personnel operated on the basis of out-of-sight, out-of-mind.","Department personel operated on the basis of out-of-sight, out-of-mind.",Spelling Error,, personel used instead of personnel,YES,YES,NO,YES,YES
 "As a result, nothing disturbed his peaceable possession of the sea.","As a result, nothing disturbed his peaceable posession of the sea.",Spelling Error,, posession used instead of  possession,YES,YES,YES,YES,YES
